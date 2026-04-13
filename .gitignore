@@ -1,0 +1,7 @@
+html
+docs
+node_modules
+.vscode
+.cursor
+
+**/.DS_Store
